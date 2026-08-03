@@ -31,4 +31,4 @@ Designed to work with the **Sysmon**, **Wazuh SIEM**, **Windows Event Log**, **A
 
 **Thomas Christoforidis**  
 Aspiring Junior SOC Analyst / Cyber Security Analyst  
-Melbourne, Australia
+Brisbane, Australia
